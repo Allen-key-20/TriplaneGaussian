@@ -66,7 +66,7 @@ pip install git+https://github.com/graphdeco-inria/diff-gaussian-rasterization.g
 ```sh
 pip install -r requirements.txt
 ```
-- Install PyTorch3D following its official [installation](https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md) instruction.
+- pytorch3d已经编译好了，在toch_wheel文件夹下
 
 ### Download the Pretrained Model
 We offer a pretrained checkpoint available for download from [Hugging Face](https://huggingface.co/VAST-AI/TriplaneGaussian); download the checkpoint and place it in the folder `checkpoints`.
